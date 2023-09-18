@@ -1,5 +1,5 @@
 {
-  "demo-fashion-store": {
+  "demo-fashion-store": { 
     "title": "Home Fashion Store",
     "demo_url": "https:\/\/lusion.arrowtheme.com\/home-fashion-store",
     "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/lusion\/images\/home-fashion-store.jpg",
@@ -43,7 +43,7 @@
   },
   "demo-shoe-shop": {
     "title": "Home Shoe Shop",
-    "demo_url": "https:\/\/lusion.arrowtheme.com\/home-shose-shop",
+    "demo_url": "https:\/\/lusion.arrowtheme.com\/home-shoe-shop",
     "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/lusion\/images\/home-shose.jpg",
     "category": ""
   },
@@ -85,7 +85,7 @@
   },
   "demo-fashion-newborn": {
     "title": "Home Fashion Newborn",
-    "demo_url": "https:\/\/lusion.arrowtheme.com\/home-fashion-newborn",
+    "demo_url": "https:\/\/lusion.arrowtheme.com\/home-newborn-fashion",
     "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/lusion\/images\/home-fashion-newborn.jpg",
     "category": ""
   },
@@ -97,7 +97,7 @@
   },
   "demo-instagrams": {
     "title": "Home Instagrams",
-    "demo_url": "https:\/\/lusion.arrowtheme.com\/home-instargam",
+    "demo_url": "https:\/\/lusion.arrowtheme.com\/home-instargams",
     "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/lusion\/images\/home-instargam.jpg",
     "category": ""
   },
