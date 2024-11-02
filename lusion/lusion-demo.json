@@ -85,7 +85,7 @@
   },
   "demo-fashion-newborn": {
     "title": "Home Fashion Newborn",
-    "demo_url": "https:\/\/lusion.arrowtheme.com\/demo-newborn-fashion",
+    "demo_url": "https:\/\/lusion.arrowtheme.com\/demo-fashion-newborn",
     "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/lusion\/images\/home-fashion-newborn.jpg",
     "category": ""
   },
@@ -93,12 +93,6 @@
     "title": "Home Accesories",
     "demo_url": "https:\/\/lusion.arrowtheme.com\/demo-accesories",
     "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/lusion\/images\/home-accessories.jpg",
-    "category": ""
-  },
-  "demo-instagrams": {
-    "title": "Home Instagrams",
-    "demo_url": "https:\/\/lusion.arrowtheme.com\/demo-instagrams",
-    "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/lusion\/images\/home-instargam.jpg",
     "category": ""
   },
   "demo-food": {
