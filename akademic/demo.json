@@ -1,0 +1,26 @@
+{
+  "demo-online-course": { 
+    "title": "Demo Online Coures",
+    "demo_url": "https:\/\/akademic.arrowtheme.com\/demo-online-course",
+    "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_online.jpg",
+    "category": ""
+  },
+  "demo-offline-course": {
+    "title": "Demo Offline Course",
+    "demo_url": "https:\/\/akademic.arrowtheme.com\/demo-offline-course\/",
+    "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_offline.png",
+    "category": ""
+  },
+   "demo-education-center": {
+    "title": "Demo Education Center",
+    "demo_url": "https:\/\/akademic.arrowtheme.com\/demo-education-center\/",
+    "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_center.png",
+    "category": ""
+  },
+  "demo-rtl": {
+    "title": "Demo RTL",
+    "demo_url": "https:\/\/akademic.arrowtheme.com\/demo-rtl\/",
+    "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_rtl.png",
+    "category": ""
+  }
+}
