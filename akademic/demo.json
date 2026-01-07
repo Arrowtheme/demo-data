@@ -3,6 +3,14 @@
     "title": "Demo Online Course",
     "demo_url": "https:\/\/akademic.arrowtheme.com\/",
     "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_online.jpg",
-    "category": ""
+    "category": "",
+    "lms_plugin": "learnpress"
+  },
+  "demo-learndash/demo-online-course": { 
+    "title": "Learndash - Demo Online Course",
+    "demo_url": "https:\/\/akademic.arrowtheme.com\/demo-learndash",
+    "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_online.jpg",
+    "category": "",
+    "lms_plugin": "learndash"
   }
 }
