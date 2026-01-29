@@ -6,11 +6,60 @@
     "category": "",
     "lms_plugin": "learnpress"
   },
+  "demo-clean": { 
+    "title": "Demo Clean Design",
+    "demo_url": "https:\/\/akademic.arrowtheme.com\/home-clean-design",
+    "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_clean.jpg",
+    "category": "",
+    "lms_plugin": "learnpress"
+  },
+  "demo-rtl": { 
+    "title": "Demo RTL",
+    "demo_url": "https:\/\/akademic.arrowtheme.com\/demo-rtl",
+    "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_rtl.jpg",
+    "category": "",
+    "lms_plugin": "learnpress"
+  },
   "demo-learndash/demo-online-course": { 
     "title": "Learndash - Demo Online Course",
     "demo_url": "https:\/\/akademic.arrowtheme.com\/demo-learndash",
     "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_online.jpg",
     "category": "",
     "lms_plugin": "learndash"
+  },
+  "demo-learndash/demo-clean": { 
+    "title": "Learndash - Demo Clean Design",
+    "demo_url": "https:\/\/akademic.arrowtheme.com\/demo-learndash\/home-clean-design",
+    "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_clean.jpg",
+    "category": "",
+    "lms_plugin": "learndash"
+  },
+  "demo-learndash/demo-rtl": { 
+    "title": "Demo RTL",
+    "demo_url": "https:\/\/akademic.arrowtheme.com\/demo-rtl",
+    "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_rtl.jpg",
+    "category": "",
+    "lms_plugin": "learndash"
+  },
+   "demo-masterstudy/demo-online-course": { 
+    "title": "MasterStudy - Demo Online Course",
+    "demo_url": "https:\/\/akademic.arrowtheme.com\/demo-masterstudy",
+    "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_online.jpg",
+    "category": "",
+    "lms_plugin": "masterstudy"
+  },
+  "demo-masterstudy/demo-clean": { 
+    "title": "MasterStudy - Demo Clean Design",
+    "demo_url": "https:\/\/akademic.arrowtheme.com\/demo-masterstudy\/home-clean-design",
+    "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_clean.jpg",
+    "category": "",
+    "lms_plugin": "masterstudy"
+  },
+   "demo-masterstudy/demo-rtl": { 
+    "title": "Demo RTL",
+    "demo_url": "https:\/\/akademic.arrowtheme.com\/demo-rtl",
+    "thumbnail_url": "https:\/\/arrowtheme.github.io\/demo-data\/akademic\/images\/demo_rtl.jpg",
+    "category": "",
+    "lms_plugin": "masterstudy"
   }
 }
